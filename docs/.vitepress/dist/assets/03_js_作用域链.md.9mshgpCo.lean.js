@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ae as l}from"./chunks/framework.Cthp9TdA.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"03_js/作用域链.md","filePath":"03_js/作用域链.md"}'),h={name:"03_js/作用域链.md"};function p(t,s,e,k,r,E){return n(),a("div",null,s[0]||(s[0]=[l("",32)]))}const c=i(h,[["render",p]]);export{g as __pageData,c as default};

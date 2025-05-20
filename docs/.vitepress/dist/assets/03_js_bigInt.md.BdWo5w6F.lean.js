@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,ae as t}from"./chunks/framework.Cthp9TdA.js";const o=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"03_js/bigInt.md","filePath":"03_js/bigInt.md"}'),l={name:"03_js/bigInt.md"};function h(e,i,k,p,d,g){return n(),a("div",null,i[0]||(i[0]=[t("",22)]))}const E=s(l,[["render",h]]);export{o as __pageData,E as default};

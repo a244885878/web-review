@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as l,ae as n}from"./chunks/framework.Cthp9TdA.js";const E=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"03_js/隐式类型转换.md","filePath":"03_js/隐式类型转换.md"}'),t={name:"03_js/隐式类型转换.md"};function h(e,s,p,k,r,d){return l(),a("div",null,s[0]||(s[0]=[n("",14)]))}const c=i(t,[["render",h]]);export{E as __pageData,c as default};

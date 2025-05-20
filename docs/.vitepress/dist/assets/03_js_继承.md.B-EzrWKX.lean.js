@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ae as h}from"./chunks/framework.Cthp9TdA.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"03_js/继承.md","filePath":"03_js/继承.md"}'),l={name:"03_js/继承.md"};function k(t,s,p,e,E,r){return n(),a("div",null,s[0]||(s[0]=[h("",27)]))}const y=i(l,[["render",k]]);export{g as __pageData,y as default};

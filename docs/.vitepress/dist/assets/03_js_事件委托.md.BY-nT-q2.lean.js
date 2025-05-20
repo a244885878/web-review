@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ae as h}from"./chunks/framework.Cthp9TdA.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"03_js/事件委托.md","filePath":"03_js/事件委托.md"}'),t={name:"03_js/事件委托.md"};function l(k,s,p,e,E,d){return n(),a("div",null,s[0]||(s[0]=[h("",32)]))}const y=i(t,[["render",l]]);export{g as __pageData,y as default};

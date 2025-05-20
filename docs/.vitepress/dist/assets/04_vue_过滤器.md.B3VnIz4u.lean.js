@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as h,ae as n}from"./chunks/framework.Cthp9TdA.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"04_vue/过滤器.md","filePath":"04_vue/过滤器.md"}'),k={name:"04_vue/过滤器.md"};function l(t,s,p,e,E,d){return h(),a("div",null,s[0]||(s[0]=[n("",49)]))}const y=i(k,[["render",l]]);export{g as __pageData,y as default};

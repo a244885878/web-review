@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as t,ae as l}from"./chunks/framework.Cthp9TdA.js";const r=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"04_vue/插槽.md","filePath":"04_vue/插槽.md"}'),n={name:"04_vue/插槽.md"};function h(k,s,p,E,e,d){return t(),a("div",null,s[0]||(s[0]=[l("",28)]))}const y=i(n,[["render",h]]);export{r as __pageData,y as default};

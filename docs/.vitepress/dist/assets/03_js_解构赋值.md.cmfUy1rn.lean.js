@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ae as h}from"./chunks/framework.Cthp9TdA.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"03_js/解构赋值.md","filePath":"03_js/解构赋值.md"}'),k={name:"03_js/解构赋值.md"};function l(p,s,t,e,E,r){return n(),a("div",null,s[0]||(s[0]=[h("",14)]))}const y=i(k,[["render",l]]);export{d as __pageData,y as default};

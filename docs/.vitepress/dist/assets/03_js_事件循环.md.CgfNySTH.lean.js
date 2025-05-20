@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as l,ae as e}from"./chunks/framework.Cthp9TdA.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"03_js/事件循环.md","filePath":"03_js/事件循环.md"}'),t={name:"03_js/事件循环.md"};function n(h,s,k,p,o,r){return l(),a("div",null,s[0]||(s[0]=[e("",19)]))}const c=i(t,[["render",n]]);export{d as __pageData,c as default};

@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as h,ae as k}from"./chunks/framework.Cthp9TdA.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"03_js/扩展运算符.md","filePath":"03_js/扩展运算符.md"}'),n={name:"03_js/扩展运算符.md"};function l(t,s,p,e,r,E){return h(),a("div",null,s[0]||(s[0]=[k("",23)]))}const y=i(n,[["render",l]]);export{g as __pageData,y as default};

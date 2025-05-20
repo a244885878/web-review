@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as t,ae as n}from"./chunks/framework.Cthp9TdA.js";const o=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"03_js/节流和防抖.md","filePath":"03_js/节流和防抖.md"}'),l={name:"03_js/节流和防抖.md"};function h(e,s,k,p,r,E){return t(),a("div",null,s[0]||(s[0]=[n("",21)]))}const g=i(l,[["render",h]]);export{o as __pageData,g as default};

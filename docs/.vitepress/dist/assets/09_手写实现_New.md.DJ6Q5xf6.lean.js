@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as t,ae as n}from"./chunks/framework.Cthp9TdA.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"09_手写实现/New.md","filePath":"09_手写实现/New.md"}'),l={name:"09_手写实现/New.md"};function e(h,s,p,k,r,o){return t(),a("div",null,s[0]||(s[0]=[n("",22)]))}const E=i(l,[["render",e]]);export{c as __pageData,E as default};

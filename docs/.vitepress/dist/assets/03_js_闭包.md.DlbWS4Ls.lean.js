@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ae as l}from"./chunks/framework.Cthp9TdA.js";const c=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"03_js/闭包.md","filePath":"03_js/闭包.md"}'),t={name:"03_js/闭包.md"};function h(e,s,p,k,r,o){return n(),a("div",null,s[0]||(s[0]=[l("",23)]))}const E=i(t,[["render",h]]);export{c as __pageData,E as default};

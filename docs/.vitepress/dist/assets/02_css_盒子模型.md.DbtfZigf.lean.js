@@ -1,0 +1,1 @@
+import{_ as l,c as a,o as e,ae as t}from"./chunks/framework.Cthp9TdA.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"02_css/盒子模型.md","filePath":"02_css/盒子模型.md"}'),r={name:"02_css/盒子模型.md"};function n(o,i,d,s,c,h){return e(),a("div",null,i[0]||(i[0]=[t("",10)]))}const b=l(r,[["render",n]]);export{_ as __pageData,b as default};

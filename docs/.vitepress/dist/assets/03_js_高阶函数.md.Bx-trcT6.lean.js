@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ae as h}from"./chunks/framework.Cthp9TdA.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"03_js/高阶函数.md","filePath":"03_js/高阶函数.md"}'),k={name:"03_js/高阶函数.md"};function l(t,s,p,e,E,r){return n(),a("div",null,s[0]||(s[0]=[h("",18)]))}const y=i(k,[["render",l]]);export{g as __pageData,y as default};

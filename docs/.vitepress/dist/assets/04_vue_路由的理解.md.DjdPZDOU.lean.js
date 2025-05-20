@@ -1,0 +1,1 @@
+import{_ as i,c as t,o as l,ae as a}from"./chunks/framework.Cthp9TdA.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"04_vue/路由的理解.md","filePath":"04_vue/路由的理解.md"}'),o={name:"04_vue/路由的理解.md"};function d(s,e,h,c,r,n){return l(),t("div",null,e[0]||(e[0]=[a("",15)]))}const k=i(o,[["render",d]]);export{p as __pageData,k as default};

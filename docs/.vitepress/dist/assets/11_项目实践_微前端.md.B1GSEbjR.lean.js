@@ -1,0 +1,1 @@
+import{_ as i,c as a,o as n,ae as l}from"./chunks/framework.Cthp9TdA.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"11_项目实践/微前端.md","filePath":"11_项目实践/微前端.md"}'),h={name:"11_项目实践/微前端.md"};function t(k,s,p,e,E,r){return n(),a("div",null,s[0]||(s[0]=[l("",5)]))}const y=i(h,[["render",t]]);export{g as __pageData,y as default};
