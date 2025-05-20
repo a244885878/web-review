@@ -5,6 +5,7 @@ import { generateSidebarConfig } from "../../scripts/generateSidebar.js";
 const sidebar = generateSidebarConfig();
 
 export default defineConfig({
+  base: "/web-review/", // 替换为你的仓库名
   title: "三土前端小站",
   description: "前端知识复习小站",
   themeConfig: {
