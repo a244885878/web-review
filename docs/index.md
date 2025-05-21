@@ -6,6 +6,9 @@ hero:
   name: "web-review"
   text: "前端知识复习小站"
   tagline: 三土的前端复习小站
+  image:
+    src: /logo.svg # 你的图标路径
+    alt: My Logo
   actions:
     - theme: brand
       text: 开始吧
