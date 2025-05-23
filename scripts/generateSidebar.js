@@ -9,9 +9,13 @@ import path from "path";
 export function generateSidebarConfig() {
   const docsDir = path.resolve(__dirname, "../docs");
 
+  const filterDirectory = [".vitepress", "public"];
+
   const dirs = fs
     .readdirSync(docsDir, { withFileTypes: true })
-    .filter((dirent) => dirent.isDirectory() && dirent.name !== ".vitepress")
+    .filter(
+      (dirent) => dirent.isDirectory() && !filterDirectory.includes(dirent.name)
+    )
     .map((dirent) => dirent.name)
     // sort directories based on prefix
     .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
