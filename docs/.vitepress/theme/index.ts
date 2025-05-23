@@ -24,7 +24,8 @@ export default {
               },
               {
                 path: "https://registry.npmmirror.com/oml2d-models/latest/files/models/Pio/model.json",
-                scale: 0.5,
+                scale: 0.6,
+                position: [0, 0],
               },
               {
                 path: "https://model.hacxy.cn/shizuku/shizuku.model.json",
@@ -39,9 +40,6 @@ export default {
                 path: "https://model.hacxy.cn/HK416-1-normal/model.json",
                 position: [0, 60],
                 scale: 0.12,
-                // stageStyle: {
-                //   height: 450,
-                // },
               },
             ],
             dockedPosition: "right",
